@@ -1,0 +1,17 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+.idea/
+*.sln
+*.slnx
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+.vsconfig
+*.sln.docstates
+*.opensdf
+*.sdf
